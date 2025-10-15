@@ -13,10 +13,12 @@
 - [Graph editor features](graph/README.md)
     - [Create a graph](graph/create.md)
     - [Graph interface](graph/interface.md)
+    - [Rendering](graph/renderer.md)
     - [Known issues](graph/known_issues.md)
 - [Nodes](nodes/README.md)
     - [Primitives](nodes/primitives.md)
         - [Draft chapter]()
+- [Develop](develop.md)
 
 -----------
 
